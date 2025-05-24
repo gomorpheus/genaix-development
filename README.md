@@ -1,7 +1,6 @@
 # genaix-development
-Setting up a development system for Genaix
 
-Genaix is a set of projects to develop Gen AI projects. This repo shows you how to gent setup for development.
+Genaix is a set of projects to develop Gen AI projects. This repo shows you how to get setup for development.
 
 ## Prerequisites
 
